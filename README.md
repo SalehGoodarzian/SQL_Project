@@ -1,3 +1,6 @@
+Solution to the questions
+Code is provided in the assignment.sql file above
+
 
 Question 12
 

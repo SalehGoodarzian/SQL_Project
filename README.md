@@ -1,10 +1,5 @@
-Solution to the questions. Code is provided in the exercises.sql file above
-
-~~ Exercise 1
-
-Done in the code exercises.sql file
+In this github page (https://github.com/WebDevSimplified/Learn-SQL), I found some great exercises to do for educational purposes. This gentleman also has a great video on youtube on sql tutorials (https://www.youtube.com/watch?v=p3qvj9hO_Bo&list=LL&index=3) which I recommend checking out. I have learned from this great video and attempted the exercises (data is also given in this page). 
 
 
-~~ Exercise 2
+In exercises.sql file above, you can find how I wrote codes to answer the exercises
 
-![image](https://user-images.githubusercontent.com/110264388/182324882-6d890586-59bf-4579-ae60-59171519b9d3.png)

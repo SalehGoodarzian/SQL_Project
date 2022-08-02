@@ -1,8 +1,1 @@
-NAME	COUNT(BANDS.NAME)
-Seventh Wonder	35
-Metallica	27
-The Ocean	31
-Within Temptation	30
-Death	27
-Van Canto	32
-
+![image](https://user-images.githubusercontent.com/110264388/182324882-6d890586-59bf-4579-ae60-59171519b9d3.png)

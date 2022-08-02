@@ -1,6 +1,6 @@
 Solution to the questions. Code is provided in the exercises.sql file above
 
-Exercise 1
+~~ Exercise 1
 
 Done in the code exercises.sql file
 
